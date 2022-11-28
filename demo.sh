@@ -1,3 +1,3 @@
 #! /bin/bash
-echo "****Display jenkins memory space****"
-free -m
+echo "****Display today date****"
+date
